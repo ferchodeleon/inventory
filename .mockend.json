@@ -3,7 +3,7 @@
     "skuId": "int",
     "warehouseId": "string",
     "quantity": "int",
-    "isUnlimitedQuantity": "bool",
+    "isUnlimitedQuantity": "boolean",
     "totalReservedQuantity": "int",
     "dispatchedReservationsQuantity": "int",
     "availableQuantity": "int"
