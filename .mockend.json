@@ -1,5 +1,5 @@
 {
-  "inventory": {
+  "Inventory": {
     "skuId": "int",
     "warehouseId": "String",
     "quantity": "int",
