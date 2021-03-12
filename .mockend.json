@@ -1,0 +1,11 @@
+{
+  "listInventory": {
+    "skuId": "int",
+    "warehouseId": "String",
+    "quantity": "int",
+    "isUnlimitedQuantity": "bool",
+    "totalReservedQuantity": "int",
+    "dispatchedReservationsQuantity": "int",
+    "availableQuantity": "int"
+  }
+}
