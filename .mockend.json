@@ -7,6 +7,5 @@
     "totalReservedQuantity": "int",
     "dispatchedReservationsQuantity": "int",
     "availableQuantity": "int",
-    "inventory": "inventory"
   }
 }
