@@ -1,7 +1,7 @@
 {
   "Inventory": {
     "skuId": "int",
-    "warehouseId": "String",
+    "warehouseId": "string",
     "quantity": "int",
     "isUnlimitedQuantity": "bool",
     "totalReservedQuantity": "int",
