@@ -6,6 +6,7 @@
     "isUnlimitedQuantity": "bool",
     "totalReservedQuantity": "int",
     "dispatchedReservationsQuantity": "int",
-    "availableQuantity": "int"
+    "availableQuantity": "int",
+    "inventory": "inventory"
   }
 }
